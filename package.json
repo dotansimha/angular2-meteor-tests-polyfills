@@ -1,0 +1,13 @@
+{
+  "name": "angular2-meteor-tests-polyfills",
+  "version": "0.0.2",
+  "author": "Dotan Simha <dotansimha@gmail.com> (http://github.com/dotansimha/)",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
